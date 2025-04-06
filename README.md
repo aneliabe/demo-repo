@@ -1,3 +1,3 @@
 # demo-repo
 
-read me!
+read me.
